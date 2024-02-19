@@ -1,8 +1,9 @@
-# System Development Project
+# JustBFitness - Gym Booking Web Service
+## System Development Project
 
 This is the repository for the group project of **Brown Team** for System Development F23
 
-## Authors
+## Contributors
 
 - [Sadaf Zakria](https://github.com/sadafzakria)
 - [Nabil Ramadan](https://github.com/Nabil-rn)
